@@ -7,3 +7,6 @@ Niklas Logren, Gregor Ulm
 
 supervisor:
 Markus Aronsson
+
+For an overview, please see this blog post:
+http://gregorulm.com/implementing-an-fft-cooley-tukey-for-a-synchronous-dataflow-extension-to-feldspar/
